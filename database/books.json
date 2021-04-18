@@ -1,0 +1,38 @@
+[
+  {
+    "id": "C38",
+    "name": "Harry Potter and The Philosopher's stone",
+    "year": "1997",
+    "author": "J. K. Rowling"
+  },
+  {
+    "id": "M45",
+    "name": "Learning JavaScript Design Patterns",
+    "year": "2012",
+    "author": "Addy Osmani"
+  },
+  {
+    "id": "c87",
+    "name": "Programming JavaScript Applications",
+    "year": "2014",
+    "author": "Eric Elliott"
+  },
+  {
+    "id": "N13",
+    "name": "Understanding ECMAScript 6",
+    "year": "2016",
+    "author": "Nicholas C. Zakas"
+  },
+  {
+    "id": "N01",
+    "name": "Harry Potter and The Chamber of Secrets",
+    "year": "1999",
+    "author": "J. K. Rowling"
+  },
+  {
+    "id": "Q79",
+    "name": "Git Pocket Guide",
+    "year": "2013",
+    "author": "Richard E. Silverman"
+  }
+]
